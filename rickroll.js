@@ -9,7 +9,7 @@ const { discord } = require("discord.js");
 module.exports = {
   name: "freeboost",
   aliases: [""],
-  description:("Vote"),
+  description:("to get free nitro boost"),
 async execute(message, args) {
 let commands = message.client.commands.array();  
   
